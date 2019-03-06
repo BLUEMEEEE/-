@@ -1,0 +1,296 @@
+1, complementing  ['k?mplim?nti?]
+n. 补充
+vt. 补充（complement的现在分词）
+2, range  [re?n(d)?]
+n. 范围；幅度；排；山脉
+vi. （在...内）变动；平行，列为一行；延伸；漫游；射程达到
+vt. 漫游；放牧；使并列；归类于；来回走动
+3, identical  [a?'dent?k(?)l]
+adj. 同一的；完全相同的
+n. 完全相同的事物
+4, foundation  [fa?n'de??(?)n]
+n. 基础;地基;基金会;根据;创立
+5, distinct  [d?'st??(k)t]
+adj. 明显的;独特的;清楚的;有区别的
+6, broad  [br??d]
+adj. 宽的,辽阔的;显著的;大概的
+n. 宽阔部分
+adv. 宽阔地
+7, capability  [ke?p?'b?l?t?]
+n. 才能,能力;性能,容量
+8, negative interger  []
+
+9, infinity  [?n'f?n?t?]
+n. 无穷;无限大;无限距
+10, fraction  ['fr?k?(?)n]
+n. 分数;部分;小部分;稍微
+11, decimal  ['des?m(?)l]
+adj. 小数的;十进位的
+n. 小数
+12, contrast  ['k?ntrɑ?st]
+vi. 对比;形成对照
+vt. 使对比;使与…对照
+n. 对比;差别;对照物
+13, magnitude  ['m?gn?tju?d]
+n. 大小;量级;[地震] 震级;重要;光度
+14, complement  ['k?mpl?m(?)nt]
+n. 补语;余角;补足物
+vt. 补足,补助
+15, positive  ['p?z?t?v]
+adj. 积极的;[数] 正的,[医][化学] 阳性的;确定的,肯定的;实际的,真实的;绝对的
+n. 正数;[摄] 正片
+16, octal  ['?kt(?)l]
+adj. [数] 八进制的
+17, hexadecimal  [,heks?'des?m(?)l]
+adj. 十六进制的
+n. 十六进制
+18, notation  [n??'te??(?)n]
+n. 符号;乐谱;注释;记号法
+19, pseudorandom  [,sju?d??'r?nd?m]
+n. 伪随机；假散乱
+adj. 伪随机的
+20, generate  ['d?en?re?t]
+vt. 使形成；发生；生殖；产生物理反应
+21, shift  [??ft]
+n. 移动；变化；手段；轮班
+vi. 移动；转变；转换
+vt. 转移；改变；替换
+22, scale  [ske?l]
+n. 规模；比例；鳞；刻度；天平；数值范围
+vi. 衡量；攀登；剥落；生水垢
+vt. 测量；攀登；刮鳞；依比例决定
+n. (Scale)人名；(意)斯卡莱
+23, formulas  []
+n. 公式;配方;规则(formula的复数)
+24, grainy  ['gre?n?]
+adj. 粒状的;木纹状的;多粒的;有纹理的
+25, pixel  ['p?ks(?)l; -sel]
+n. （显示器或电视机图象的）像素（等于picture element）
+26, matrix  ['me?tr?ks]
+n. [数] 矩阵；模型；[生物][地质] 基质；母体；子宫；[地质] 脉石
+27, impose  [?m'p??z]
+vi. 利用；欺骗；施加影响
+vt. 强加；征税；以…欺骗
+28, align  [?'la?n]
+vt. 使结盟；使成一行；匹配
+vi. 排列；排成一行
+29, index  ['?ndeks]
+n. 指标；指数；索引；指针
+vi. 做索引
+vt. 指出；编入索引中
+30, register  ['red??st?]
+vt. 登记；注册；记录；挂号邮寄；把…挂号；正式提出
+vi. 登记；注册；挂号
+n. 登记；注册；记录；寄存器；登记簿
+n. (Register)人名；(英)雷吉斯特
+31, scope  [sk??p]
+n. 范围；余地；视野；眼界；导弹射程
+vt. 审视
+32, portion  ['p???(?)n]
+n. 部分；一份；命运
+vt. 分配；给…嫁妆
+33, compiler  [k?m'pa?l?]
+n. 编译器；[计] 编译程序；编辑者，汇编者
+34, signature  ['s?gn?t??]
+n. 署名；签名；信号
+35, explicit  [?k'spl?s?t; ek-]
+adj. 明确的；清楚的；直率的；详述的
+36, prototype  ['pr??t?ta?p]
+n. 原型；标准，模范
+37, terminate  ['t??m?ne?t]
+vt. 使终止；使结束；解雇
+vi. 结束，终止；结果
+adj. 结束的
+38, void  [v??d]
+adj. 空的；无效的；无人的
+n. 空虚；空间；空隙
+vt. 使无效；排放
+n. (Void)人名；(俄)沃伊德
+39, reusability  []
+n. 可重用性
+40, debug  [di?'b?g]
+vt. 调试；除错，改正有毛病部分；[军] 除去窃听器
+41, manipulation  [m?,n?pj?'le??(?)n]
+n. 操纵；操作；处理；篡改
+42, string  [str??]
+n. 线，弦，细绳；一串，一行
+43, mathematic  [,m?θ?'m?t?k]
+adj. 数学的；精确的；数理的；肯定的；精确的；严谨的
+44, invoke  [?n'v??k]
+vt. 调用；祈求；引起；恳求
+45, define  [d?'fa?n]
+vt. 定义；使明确；规定
+n. (Define)人名；(英)德法恩；(葡)德菲内
+46, method  ['meθ?d]
+n. 方法；条理；类函数
+adj. 使用体验派表演方法的
+47, procedure  [pr?'si?d??]
+n. 程序，手续；步骤
+48, region  ['ri?d?(?)n]
+n. 地区；范围；部位
+49, identifier  [a?'dent?fa??]
+n. 标识符，认同者；检验人，鉴定人
+50, recursive  [r?'k??s?v]
+adj. [数] 递归的；循环的
+51, visibility  [v?z?'b?l?t?]
+n. 能见度，可见性；能见距离；明显性
+52, activation  [,?kt?'ve???n]
+n. [电子][物] 激活；活化作用
+53, implement  ['?mpl?m(?)nt]
+vt. 实施，执行；实现，使生效
+n. 工具，器具；手段
+54, random  ['r?nd?m]
+adj. [数] 随机的；任意的；胡乱的
+n. 随意
+adv. 胡乱地
+55, stack  [st?k]
+n. 堆；堆叠
+vt. 使堆叠；把…堆积起来
+vi. 堆积，堆叠
+n. (Stack)人名；(英)斯塔克；(德)施塔克
+56, mechanism  ['mek(?)n?z(?)m]
+n. 机制；原理，途径；进程；机械装置；技巧
+57, parameter  [p?'r?m?t?]
+n. 参数；系数；参量
+58, modulat  []
+n. 模数的；积木式的；模块化
+59, dummy  ['d?m?]
+adj. 虚拟的；假的
+n. 傀儡；哑巴；仿制品
+60, decrement  ['dekr?m(?)nt]
+n. 渐减；减缩；衰减率
+61, increment  ['??kr?m(?)nt]
+n. [数] 增量；增加；增额；盈余
+62, block  [bl?k]
+n. 块；街区；大厦；障碍物
+vt. 阻止；阻塞；限制；封盖
+adj. 成批的，大块的；交通堵塞的
+n. (Block)人名；(英、法、德、西、葡、芬、罗)布洛克
+63, ident  [a?'dent; 'a?dent]
+n. 识别，鉴别
+64, structure  ['str?kt??]
+n. 结构；构造；建筑物
+vt. 组织；构成；建造
+65, sequence  ['si?kw(?)ns]
+n. [数][计] 序列；顺序；续发事件
+vt. 按顺序排好
+66, prompt  [pr?m(p)t]
+adj. 敏捷的，迅速的；立刻的
+vt. 提示；促进；激起；（给演员）提白
+n. 提示；付款期限；DOS命令：改变DOS系统提示符的风格
+adv. 准时地
+67, formal  ['f??m(?)l]
+adj. 正式的；拘谨的；有条理的
+n. 正式的社交活动；夜礼服
+n. (Formal)人名；(法)福马尔
+68, informal  [?n'f??m(?)l]
+adj. 非正式的；不拘礼节的；随便的；通俗的；日常使用的
+69, artificial  [ɑ?t?'f??(?)l]
+adj. 人造的；仿造的；虚伪的；非原产地的；武断的
+70, pseudocode  ['sju:d???k??d]
+n. 伪代码；假码；虚拟程序代码
+71, specify  ['spes?fa?]
+vt. 指定；详细说明；列举；把…列入说明书
+72, sentinel  ['sent?n(?)l]
+n. 哨兵
+vt. 守卫，放哨
+73, infinite  ['?nf?n?t]
+adj. 无限的，无穷的；无数的；极大的
+n. 无限；[数] 无穷大；无限的东西（如空间，时间）
+74, iteration  [?t?'re??(?)n]
+n. [数] 迭代；反复；重复
+75, loop  [lu?p]
+vi. 打环；翻筋斗
+n. 环；圈；弯曲部分；翻筋斗
+vt. 使成环；以环连结；使翻筋斗
+76, refinement  [r?'fa?nm(?)nt]
+n. 精制；文雅；[化工][油气][冶] 提纯
+77, binary  ['ba?n?r?]
+adj. [数] 二进制的；二元的，二态的
+78, stream  [stri?m]
+n. 溪流；流动；潮流；光线
+vi. 流；涌进；飘扬
+vt. 流出；涌出；使飘动
+79, chain  [t?e?n]
+n. 链；束缚；枷锁
+vt. 束缚；囚禁；用铁链锁住
+80, concatenate  [k?n'k?t?ne?t]
+vt. 连结；使连锁
+adj. 连结的；连锁的
+81, buffer  ['b?f?]
+n. [计] 缓冲区；缓冲器，[车辆] 减震器
+vt. 缓冲
+82, flush  [fl??]
+n. 激动，洋溢；面红；萌芽；旺盛；奔流
+vt. 使齐平；发红，使发亮；用水冲洗；使激动
+vi. 发红，脸红；奔涌；被冲洗
+adj. 大量的；齐平的；丰足的，洋溢的；挥霍的
+83, extraction  [?k'str?k?(?)n; ek-]
+n. 取出；抽出；拔出；抽出物；出身
+84, declaration  [dekl?'re??(?)n]
+n. （纳税品等的）申报；宣布；公告；申诉书
+85, declare  [d?'kle?]
+vt. 宣布，声明；断言，宣称
+vi. 声明，宣布
+86, equivalent  [?'kw?v(?)l(?)nt]
+adj. 等价的，相等的；同意义的
+n. 等价物，相等物
+87, score  [sk??]
+n. 分数；二十；配乐；刻痕
+vt. 获得；评价；划线，刻划；把…记下
+vi. 得分；记分；刻痕
+n. (Score)人名；(英)斯科尔
+88, percentile  [p?'senta?l]
+adj. 百分率的；按百等分排列的
+n. 百分位
+89, abbreviation  [?bri?v?'e??(?)n]
+n. 缩写；缩写词
+90, abbreviate  [?'bri?v?e?t]
+vt. 缩写，使省略；使简短
+vi. 使用缩写词
+91, optional  ['?p?(?)n(?)l]
+adj. 可选择的，随意的
+n. 选修科目
+92, brace  [bre?s]
+n. 支柱；[语] 大括号；曲柄
+vt. 支撑；振作起来；激励；撑牢
+vi. 支持；打起精神
+adj. 曲柄的
+n. (Brace)人名；(英)布雷斯；(法)布拉斯
+93, execute  ['eks?kju?t]
+vt. 实行；执行；处死
+94, parenthesis  [p?'renθ?s?s]
+n. 插入语,插入成分
+n. 圆括号
+n. 间歇，插曲
+95, integer  ['?nt?d??]
+n. [数] 整数；整体；完整的事物
+96, evaluate  [?'v?lj?e?t]
+vt. 评价；估价；求…的值
+vi. 评价；估价
+97, character  ['k?r?kt?]
+n. 性格，品质；特性；角色；[计] 字符
+vt. 印，刻；使具有特征
+n. (Character)人名；(英)克拉克特
+98, integral  [??nt?ɡr?l]
+adj. 积分的；完整的，整体的；构成整体所必须的
+n. 积分；部分；完整
+99, constant  ['k?nst(?)nt]
+adj. 不变的；恒定的；经常的
+n. [数] 常数；恒量
+n. (Constant)人名；(德)康斯坦特
+100, variable  ['ve?r??b(?)l]
+adj. 变量的；可变的；易变的，多变的；变异的，[生物] 畸变的
+n. [数] 变量；可变物，可变因素
+101, mutiple  []
+多重的
+102, label  ['le?b(?)l]
+vt. 标注；贴标签于
+n. 标签；商标；签条
+n. (Label)人名；(法)拉贝尔
+103, proceed  [pr?'si?d]
+vi. 开始；继续进行；发生；行进
+104, default  [d?'f??lt; 'di?f??lt]
+vi. 拖欠；不履行；不到场
+n. 违约；缺席；缺乏；系统默认值
+vt. 不履行；不参加（比赛等）；对…处以缺席裁判
