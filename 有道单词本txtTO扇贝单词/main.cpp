@@ -8,15 +8,15 @@ bool isNumber(string str,int i);
 string extractWord(string str);
 
 int main() {
-	string fileName = "ÓÐµÀµ¥´Ê±¾.txt";
-	cout << "ÊäÈëÎÄ¼þÃû£º";
+	string fileName = "æœ‰é“å•è¯æœ¬.txt";
+	cout << "è¾“å…¥æ–‡ä»¶åï¼š";
 	cin >> fileName;
 	fstream in(fileName, ios::in||ios::out);
 	fstream out;
 	//cout << in.is_open();
 	string temp;
 	//char buf[80];
-	int count = 0;//ÉÈ±´µ¥´ÊÃ¿´ÎÖ»ÄÜÌí¼Ó10¸öµ¥´Ê£¬Ã¿¸öµ¥´ÊÒ»ÐÐ
+	int count = 0;//æ‰‡è´å•è¯æ¯æ¬¡åªèƒ½æ·»åŠ 10ä¸ªå•è¯ï¼Œæ¯ä¸ªå•è¯ä¸€è¡Œ
 	int txtNumber = 1;
 	while (getline(in,temp)) {
 		//cout << temp << endl;
@@ -25,7 +25,7 @@ int main() {
 				count = 0; txtNumber++;
 			}
 			if (count == 0) {
-				out.close();//¸øÍüÀ²£¡
+				out.close();//ç»™å¿˜å•¦ï¼
 				string tempFileName = to_string(txtNumber)+".txt";
 				out.open(tempFileName, ios::out);
 				cout << out.is_open() << endl << endl << endl;
