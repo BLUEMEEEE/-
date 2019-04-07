@@ -55,20 +55,6 @@ def write_in_output_sheet(output_sheet,output_line_counting,sheet,row_num):
             else:
                 cell=sheet.cell(row_num,i).value
             output_sheet.write(output_line_counting,i,label=cell)
-        #if(i==8):
-        #    tup=xlrd.xldate_as_tuple(sheet.cell(2,8).value,0)
-        #    tup[0]=1999
-        #    tup[1]=9
-        #    tup[2]=9
-        #    time=datetime.datetime(*tup)
-        #    style = xlwt.XFStyle()
-        #    style.num_format_str = 'M/D/YY'
-        #    output_sheet.write(output_line_counting, i, time, style)
-        #elif(i==9):
-        #    time=xlrd.xldate.xldate_as_datetime(sheet.cell(row_num,i).value,0)
-        #    style = xlwt.XFStyle()
-        #    style.num_format_str = 'h:mm:ss'
-        #    output_sheet.write(output_line_counting, i, time, style)
         else:
             output_sheet.write(output_line_counting,i,label=row[i])
     output_line_counting=output_line_counting+1
@@ -142,7 +128,6 @@ output_base_path="D:\\MyFiles\\思教科\\2018年下半年晚归数据\\output\\
 output_type=['所有晚归\\','11.30后晚归\\','晚归后离开未回宿舍\\','晚归后离开宿舍后再回\\']
 
 # 计算所有晚归数据
-'''
 for file_index in range(len(file_names)):
     if(file_index==12):# 发现十四周的数据是空的，跳过
         continue
@@ -182,8 +167,7 @@ for file_index in range(len(file_names)):
                 continue
             output_line_counting=write_in_output_sheet(output_sheet,output_line_counting,sheet,i)
     output_workbook_1.save(output_base_path+output_type[0]+file_names[file_index]+".xls")
-'''
-'''
+
 # 计算23：30后晚归
 
 for file_index in range(len(file_names)):
@@ -227,7 +211,7 @@ for file_index in range(len(file_names)):
                 continue
             output_line_counting=write_in_output_sheet(output_sheet,output_line_counting,sheet,i)
     output_workbook.save(output_base_path+output_type[1]+file_names[file_index]+".xls")
-'''
+
 
 # 晚归时间离开宿舍未回宿舍
 # 晚归时间离开宿舍后回寝
