@@ -33,7 +33,7 @@ def send_email():
 count=1
 i=0
 while i==0:
-    response = urllib.request.urlopen('https://maoyan.com/cinemas?movieId=248172&showDate=2019-04-25&brandId=102642')
+    response = urllib.request.urlopen('https://maoyan.com/cinemas?movieId=248172&showDate=2019-04-24&brandId=102642')
     result = response.read().decode('utf-8')
     index=result.find('万达影城(万胜围店)')
     res=True if index!=-1 else False
