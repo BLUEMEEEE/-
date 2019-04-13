@@ -65,6 +65,7 @@ while True:
         if res:
             send_email(username)
         count=count+1
+        #TODO:发现sleep并不能准确睡眠60s，有时候睡眠时间会延长
         time.sleep(60)
     except Exception as e:
         print(str(e))
