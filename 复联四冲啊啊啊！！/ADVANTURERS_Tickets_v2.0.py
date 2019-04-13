@@ -6,10 +6,10 @@ from email.header import Header
 import time
 from bs4 import BeautifulSoup
 
-username='352067460@qq.com'
-password='bjqgglagpkqbbjja'
+username='XXXXXX@qq.com'
+password='XXXXXXX'
 sender=username
-receiver='479182749@qq.com'
+receiver='XXXXXXX@qq.com'
 msg_str="Tickets are On Sale!!!! GO! GO! GO!!!!"
 
 def send_email(receiver_addr):
